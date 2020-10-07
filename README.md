@@ -3,7 +3,7 @@
 
 ### I am an Electronics and Communication Engineer,Currently studying 3rd year at The National Institute Of Engineering,Mysore
 
-## MY Skills are - Python3/Matplotlib/Numpy/Pandas/ML/AI/HTML/CSS/JavaScript 
+#### My Skills are - Python3/Matplotlib/Numpy/Pandas/ML/AI/HTML/CSS/JavaScript 
 
 
 - 🔭 I’m currently working on Artificial Intelligence
