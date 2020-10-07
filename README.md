@@ -5,8 +5,7 @@
 
 ## MY Skills are - Python3/Matplotlib/Numpy/Pandas/ML/AI/HTML/CSS/JavaScript
 
-<!--
-**Santhosh-H-S/Santhosh-H-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Deep Learning and Rasperry pi
 - 🤔 I’m looking for help with ML,AI projects
 - 📫 How to reach me: santhoshhs453@gmail.com
--->
+
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Santhosh-H-S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/santhosh-h-s-5014641b1/) 
