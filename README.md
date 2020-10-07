@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Computer Vision 
-- 👯 I’m looking to collaborate on Deep Learning and Rasperry pi
+- 👯 I’m looking to collaborate on Deep Learning and Raspberry pi
 - 🤔 I’m looking for help with ML,AI projects
 - 📫 How to reach me: santhoshhs453@gmail.com
 
