@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am SANTHOSH H S
 
-### I am an Electronics and Communication Engineer,Currently studying 3rd year at The National Institute Of Engineering,Mysore
+### I am an Electronics and Communication Engineer,Currently studying 3rd year at National Institute Of Engineering,Mysore
 
 #### My Skills are - Python3/Matplotlib/Numpy/Pandas/ML/AI/HTML/CSS/JavaScript 
 
